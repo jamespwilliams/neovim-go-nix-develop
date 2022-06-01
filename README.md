@@ -14,7 +14,7 @@ nix develop github:jamespwilliams/neovim-go-nix-develop
 
 The development environment provides:
 
-* go (at the time of writing, version 1.17.10)
+* go (at the time of writing, version 1.18.2)
 * gopls (the official Go language server)
 * neovim
 * nvim-lspconfig
