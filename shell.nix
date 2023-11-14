@@ -47,7 +47,7 @@ let
 in
 mkShell {
   nativeBuildInputs = [
-    go_1_18
+    go
     gopls
     overriden-neovim
     tmux
